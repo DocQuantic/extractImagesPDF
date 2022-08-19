@@ -3,7 +3,7 @@ import io
 from PIL import Image
 
 # file path you want to extract images from
-file = "/Users/williammagrini/Documents/JdR/Starfinder/Scénarios/Fureteux/PZO9500-17E.pdf"
+file = "Path/To/File/filename.pdf"
 
 # open the file
 pdf_file = fitz.open(file)
